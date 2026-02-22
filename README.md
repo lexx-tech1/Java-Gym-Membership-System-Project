@@ -1,4 +1,4 @@
-# 🏋️ Gym Membership Management System
+Gym Membership Management System
 
 A Java-based **Gym Membership Management System** that provides full
 CRUD functionality, transaction handling, and file-based data storage
@@ -6,37 +6,37 @@ using a `.txt` file.
 
 ------------------------------------------------------------------------
 
-## 📌 Project Overview
+Project Overview
 
 This system is designed to help manage:
 
--   👤 Gym Members\
--   🧑‍🏫 Trainers\
--   🏋️ Equipment\
--   💳 Membership Transactions
+-   Gym Members
+-   Trainers
+-   Equipment
+-   Membership Transactions
 
 All records are stored in a single `.txt` file for simplicity and
 compliance with project requirements.
 
 ------------------------------------------------------------------------
 
-## 🚀 Features
+Features
 
-### ✅ CRUD Operations
+CRUD Operations
 
 -   Add new members
 -   View member records
 -   Update member details
 -   Delete member records
 
-### 💳 Transaction Handling
+Transaction Handling
 
 -   Records membership type (Bronze, Silver, Gold, etc.)
 -   Tracks payment method (Cash, etc.)
 -   Tracks duration
 -   Stores transaction date
 
-### 📁 File-Based Storage
+File-Based Storage
 
 All data is stored in:
 
@@ -46,7 +46,7 @@ Organized sections: - #MEMBERS - #TRAINERS - #EQUIPMENTS
 
 ------------------------------------------------------------------------
 
-## 🛠 Technologies Used
+Technologies Used
 
 -   Java
 -   File Handling (.txt)
@@ -55,7 +55,7 @@ Organized sections: - #MEMBERS - #TRAINERS - #EQUIPMENTS
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
+Project Structure
 
 GymMembershipSystem
     ├── GymInterface.java
@@ -67,7 +67,7 @@ GymMembershipSystem
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Run
+How to Run
 
 1.  Compile: javac GymInterface.java javac GymManager.java
 
@@ -78,17 +78,17 @@ or higher.
 
 ------------------------------------------------------------------------
 
-## 🎯 Project Requirements Met
+Project Requirements Met
 
-✔ CRUD functionality\
-✔ Transaction handling\
-✔ GUI interface\
-✔ File-based storage (.txt only)\
+✔ CRUD functionality
+✔ Transaction handling
+✔ GUI interface
+✔ File-based storage (.txt only)
 ✔ Object-Oriented design
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+Author
 
 Adrian Lexter Ajento
 Java Gym Membership System Project
